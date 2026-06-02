@@ -1,0 +1,3 @@
+Daniel Gruber Co-Founder and Chief Solutions Officer
+
+Daniel Gruber is Co-Founder and Chief Solutions Officer at HPC Gridware, the company behind Open Cluster Scheduler and Gridware Cluster Scheduler. Holding B.Sc. and M.Sc. degrees in Information Engineering, he has spent his career building and consulting on workload scheduling and management solutions — starting on the Sun Grid Engine core development team, then working on Oracle Grid Engine, and the first versions of Univa Grid Engine, before serving as Platform Architect at Pivotal and Director of Architecture at UberCloud/SIMR.
